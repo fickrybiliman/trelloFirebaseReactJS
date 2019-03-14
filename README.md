@@ -66,3 +66,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### create-react-app trello-firebase
+### npm install
+### npm install redux react-redux @material-ui/core @material-ui/icons
+### create folder components
+### create folder reducers (redux)
+### create folder actions (redux)
+### create folder store
+### move file App.js to folder components
+### delete App.css App.test.js index.css logo.svg
+### change import app from './App' to './components/App'
+### delete import './index.css' from index.js
+### delete import logo from './logo.svg' from App.js
+### delete import './App.css' from App.js
+### delete default page on App.js
+### create file index.js on folder store
